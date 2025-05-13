@@ -12,14 +12,14 @@
 
 <h2>Features</h2>
 <ul>
-    <li>User authentication and account management</li>
+    <li>Account management</li>
     <li>Product listings with images and prices</li>
     <li>Add to cart and order tracking functionality</li>
     <li>Clean UI replicating KFC’s real-world app design</li>
 </ul>
 
 <h2>Usage</h2>
-<p>Launch the app, sign in or register, browse menu items, add items to your cart, and place orders with a smooth and responsive experience.</p>
+<p>Launch the app, browse menu items, add items to your cart, and place orders with a smooth and responsive experience.</p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please follow these steps to contribute:</p>
